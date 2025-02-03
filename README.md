@@ -26,3 +26,6 @@
     <p>Após adicionar os nomes, faça o sorteio do Amigo Secreto, clicando no botão Sortear amigo. Ao clicar no botão, um nome será sorteado e irá aparecer na tela, na cor verde.</p>
   </li>
 </ul>
+
+## Acessar jogo
+<p>https://krawczuk.github.io/desafio-final-formacao-oracle/</p>
